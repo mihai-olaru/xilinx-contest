@@ -3,7 +3,7 @@
  * Download a model 
  * Quantization of the model 
  * Compilation of the model
- * Update a defaul app to use this model
+ * Update the default app to use this model
 
 ## Quantization
 
